@@ -10,5 +10,6 @@
 
 // Initialize LCD in 4-bit mode
 void lcd_init(void);
+void lcd_write_character(char c);
 
 #endif // LCD_H
