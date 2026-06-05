@@ -61,7 +61,7 @@ A ```void lcd_write_character(char c)``` function is exposed in the driver API t
 ## Installation
 ***Requirements***: LCD 1602A display, ESP32 board, basic wiring (see LCD1602A wiring on google for good reference), and ESP-IDF setup on your system
 ```bash 
-git clone <repo url>
+git clone <https://github.com/hobbbbies/LCD-1602A-ESP-32-Driver.git>
 idf.py build flash monitor 
 ```
 
